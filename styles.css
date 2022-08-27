@@ -46,12 +46,5 @@ p{
 	color: hsl(220, 15%, 55%);
 	text-align: center;
 }
-.foot{
-    font-size: 0.5rem;
-    font-family: 'Outfit', sans-serif;
-    margin-left: 160px;
-}
-a{
-    font-family: 'Outfit', sans-serif;
-    text-decoration: none;
-}
+
+
